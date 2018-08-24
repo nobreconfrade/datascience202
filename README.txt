@@ -14,3 +14,9 @@ challenge.ipynb
 
 All charts are within the text as well so should be easy
 to see.
+
+-------------------------------------------------------
+Important: If you want to run the code, please get the
+data set to the root folder of challenge.ipynb and
+rename it "data.ndjson"
+-------------------------------------------------------
